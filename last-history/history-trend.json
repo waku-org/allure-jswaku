@@ -1,1 +1,1 @@
-[{"data":{"failed":0,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":0}}]
+[{"buildOrder":7544,"reportUrl":"https://waku-org.github.io/js-waku/7544/","reportName":"Allure Report with history","data":{"failed":0,"broken":1,"skipped":21,"passed":856,"unknown":0,"total":878}},{"data":{"failed":0,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":0}}]
