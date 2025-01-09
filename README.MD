@@ -1,1 +1,1 @@
-Allure reports
+Allure reports repo
